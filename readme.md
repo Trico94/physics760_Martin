@@ -4,8 +4,11 @@ Hello and welcome to this repo. This repo was made for the computational physics
 
 ## Current Homework
 
-### Homework 5
-Homework 5 did not go as well as we wanted it to. The data structure is the same as before. 
+### Homework 6
+Homework 6 follows the same method as before:
+* The pictures are in the picture folder
+* The PDF-file is in landscape mode, because there were agian large formulas. If there is still a problem with readability the formulas can be checked out in the Jupyther notebook. 
+* The data for the Jupyther notebook is in the data folder. We modified the data to use pandas to read it. 
 
 ## Old Homeworks
 
@@ -27,3 +30,6 @@ Instructions applieng for this homework, which was due to 02.12.2020, are basica
 * A PDF file can be found in "Exercise 4" folder alongside with the Jupyther notebook.
 * Images can be found in the pictures folder located in the "Exercise 4" folder. These images have a higher resolution than the ones in the PDF.
 * If text is cut of in the PDF, it can be examined in the Jupyther Notebook.
+
+### Homework 5
+Homework 5 did not go as well as we wanted it to. The data structure is the same as before. 
